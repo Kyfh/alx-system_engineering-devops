@@ -1,2 +1,2 @@
 #!/bin/bash
-kjsd\n
+sudo chown --from=guillaume betty hello\n

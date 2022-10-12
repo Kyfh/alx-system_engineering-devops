@@ -1,2 +1,2 @@
 #!/bin/bash
-looi\n
+sudo chown school hello
